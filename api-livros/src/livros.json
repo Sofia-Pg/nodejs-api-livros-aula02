@@ -1,0 +1,30 @@
+[
+    {
+        "id":"1",
+        "titulo":"Anne of Green Gables",
+        "descricao": "Quando os irmãos Marilla e Matthew Cuthbert, de Green Gables, na Prince Edward Island, no Canadá, decidem adotar um órfão para ajudá-los nos trabalhos da fazenda, não estão preparados para o “erro” que mudará suas vidas: Anne Shirley, uma menina ruiva de 11 anos, acaba sendo enviada, por engano, pelo orfanato",
+        "autor":"L. M. Montgomery",
+        "anoPublicacao": 1908
+    },
+    {
+        "id":"2",
+        "titulo":"Dom Casmurro",
+        "descricao":"Dom Casmurro, conta a história de Bento Santiago (Bentinho), apelidado de Dom Casmurro por ser calado e introvertido. Na adolescência, apaixona-se por Capítu, abandonando o seminário e, com ele, os desígnios traçados por sua mãe, Dona Glória, para que se tornasse padre.",
+        "autor":"Machado de Assis",
+        "anoPublicacao":1899
+    },
+    {
+        "id":"3",
+        "titulo":"O Cortiço",
+        "descricao":"O Cortiço é um romance naturalista do brasileiro Aluísio Azevedo publicado em 1890 que denuncia a exploração e as péssimas condições de vida dos moradores das estalagens ou dos cortiços cariocas do final do século XIX",
+        "autor":"Aluísio Azevedo",
+        "anoPublicacao":1890
+    },
+    {
+         "id":"4",
+        "titulo":"Capitães de areia",
+        "descricao":"Capitães da Areia é um romance de autoria do escritor brasileiro Jorge Amado, escrito em 1937. A obra retrata a vida de um grupo de menores abandonados, que crescem nas ruas da cidade de Salvador, Bahia, vivendo em um trapiche, roubando para sobreviver, chamados de Capitães da Areia.",
+        "autor":"Jorge Amado",
+        "anoPublicacao":1937
+    }
+]

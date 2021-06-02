@@ -1,0 +1,22 @@
+{
+  "name": "api-livros",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "Sofia",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1",
+    "uuidv4": "^6.2.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "description": ""
+}
